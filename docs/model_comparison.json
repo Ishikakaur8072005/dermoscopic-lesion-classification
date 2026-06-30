@@ -1,0 +1,14 @@
+{
+    "SVM_baseline": {
+        "accuracy": 73.14,
+        "macro_f1": 0.35,
+        "melanoma_recall": 25.1,
+        "vasc_recall": 0.0
+    },
+    "EfficientNet_B3": {
+        "accuracy": 80.17,
+        "macro_f1": 0.72,
+        "melanoma_recall": 75.0,
+        "vasc_recall": 95.0
+    }
+}
